@@ -1,0 +1,5 @@
+1. kafka-client
+2. postgres
+3. spark-sql-kafka
+4. spark-streaming-kafka
+5. spray-json
